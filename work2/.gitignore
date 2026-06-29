@@ -1,0 +1,13 @@
+# IDE files
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Taichi
+__taichi_cache__/

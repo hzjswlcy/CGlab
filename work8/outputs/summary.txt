@@ -1,0 +1,9 @@
+SMPL LBS summary
+vertex_count: 6890
+face_count: 13776
+joint_count: 24
+betas_dim: 10
+mean_abs_error: 7.1044125415e-09
+max_abs_error: 9.3785191169e-08
+shape_delta_max: 8.4450550794e-02
+pose_offset_max: 1.9216482044e-02
